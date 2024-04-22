@@ -1,5 +1,11 @@
 # @vinicius-santos26-ignite-ui/ts-config
 
+## 3.0.0
+
+### Major Changes
+
+- 8606e5e: teste
+
 ## 2.0.0
 
 ### Major Changes
