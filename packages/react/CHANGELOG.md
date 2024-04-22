@@ -6,8 +6,6 @@
 
 - 8606e5e: teste
 
-## 2.0.0
+### Patch Changes
 
-### Major Changes
-
-- Add display name to all components
+- Add some fixes to future projects
